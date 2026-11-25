@@ -1,0 +1,7 @@
+{
+  "routes": [
+    { "route": "/sw.js", "headers": { "cache-control": "no-cache" } },
+    { "route": "/index.html", "headers": { "cache-control": "no-cache" } },
+    { "route": "/manifest.webmanifest", "headers": { "cache-control": "no-cache" } }
+  ]
+}
